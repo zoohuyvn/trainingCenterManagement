@@ -72,3 +72,7 @@ If you'd like to contribute, fork the repository and use a feature branch.
 ## 🥹 Acknowledgments
 This is my first Java final project and also my first project at VKU, so I put a lot of effort into this project.<br>
 I'm look forward to receiving feedback as I develop further. Thanks for viewing my project ✨.
+
+## ✨ Support
+Give a ⭐ if this project helped you!<br><br>
+<a href='https://www.buymeacoffee.com/zoohuy' target='_blank'><img style='height: 34px' src='https://i.imgur.com/Y2Ta2iz.png'/></a>
