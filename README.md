@@ -9,16 +9,16 @@ Final project of Java about application to manage student profile and score in t
 
 ## 📃Example
 <p>
-  <img title='Login page' src="./login.png" width="49%"/>
-  <img title='Register page' style='float: right' src="./register.png" width="49%"/>
+  <img title='Login page' src="./Screenshot/login.png" width="49%"/>
+  <img title='Register page' style='float: right' src="./Screenshot/register.png" width="49%"/>
 </p>
 <p>
-  <img title='Main page' src="./main.png" width="49%"/>
-  <img title='Analytic page' style='float: right' src="./analytic.png" width="49%"/>
+  <img title='Main page' src="./Screenshot/main.png" width="49%"/>
+  <img title='Analytic page' style='float: right' src="./Screenshot/analytic.png" width="49%"/>
 </p>
 <p>
-  <img title='Export to Excel' src="./export-data.png" width="49%"/>
-  <img title='Export report to PDF' style='float: right' src="./export-report.png" width="49%"/>
+  <img title='Export to Excel' src="./Screenshot/export-data.png" width="49%"/>
+  <img title='Export report to PDF' style='float: right' src="./Screenshot/export-report.png" width="49%"/>
 </p>
 
 ## 🛠️ Built with
@@ -56,12 +56,12 @@ Open Eclipse, click `File/Import` choose type wizard `Projects from Folder or Ar
 
 ## 👉 Usage
 Access to project folder, then open file `main.java` in path `trainingCenterManagement/src/trainingCenterManagement`<br>
-Right click and `Run As/1 Java Application` or use shortcut `Alt + Shift + X`
+Right click and `Run As/1 Java Application` or use shortcut `Alt + Shift + X`.
 
 ## ✒️ Diagrams
 <p>
-  <img title='ERD diagram' src="./erd.png" width="49%"/>
-  <img title='ERM diagram' style='float: right' src="./erm.png" width="47%"/>
+  <img title='ERD diagram' src="./Screenshot/erd.png" width="49%"/>
+  <img title='ERM diagram' style='float: right' src="./Screenshot/erm.png" width="47%"/>
 </p>
 
 ## 🫂 Contributing
