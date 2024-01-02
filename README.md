@@ -49,7 +49,7 @@ git clone https://github.com/iamzoohuy/trainingCenterManagement.git
 Step 1: Run XAMPP and click start Apache and MySQL<br>
 Step 2: Go to [phpMyAdmin](http://localhost/phpmyadmin)<br>
 Step 3: Create new database name `training_center_management`<br>
-Step 4: Import [SQL file](aaaaaaaa) into database
+Step 4: Import [SQL file](./training_center_management.sql) into database
 ### 4. Open in IDE
 You can open the project with an IDE that supports Java like IntelliJ IDEA, Eclipse, NetBeans, etc. Here I use [Eclipse (2023-06)](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2023-12/R/eclipse-inst-jre-win64.exe).<br>
 Open Eclipse, click `File/Import` choose type wizard `Projects from Folder or Archive` and browse to directory you cloned.
