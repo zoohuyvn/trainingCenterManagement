@@ -46,7 +46,7 @@ git clone https://github.com/iamzoohuy/trainingCenterManagement.git
     - [Linux](https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/8.0.30/xampp-linux-x64-8.0.30-0-installer.run)
     - [macOS](https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/8.0.28/xampp-osx-8.0.28-0-installer.dmg)
 ### 3. Import SQL
-Step 1: Run XAMPP and click start Apache and MySQL<br>
+Step 1: Run XAMPP Control Panel and click start Apache and MySQL<br>
 Step 2: Go to [phpMyAdmin](http://localhost/phpmyadmin)<br>
 Step 3: Create new database name `training_center_management`<br>
 Step 4: Import [SQL file](./training_center_management.sql) into database
