@@ -36,7 +36,7 @@ Final project in Java for managing student profiles and scores in a training cen
 ```bash
 git clone https://github.com/iamzoohuy/trainingCenterManagement.git
 ```
-### 2. Install enviroment
+### 2. Install environment
 - JDK (version 8 and above): Java SE Development Kit 20.0.2
     - [Windows](https://download.oracle.com/java/20/archive/jdk-20.0.2_windows-x64_bin.exe)
     - [Linux](https://download.oracle.com/java/20/archive/jdk-20.0.2_linux-x64_bin.rpm)
