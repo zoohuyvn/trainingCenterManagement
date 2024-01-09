@@ -4,6 +4,7 @@ Final project in Java for managing student profiles and scores in a training cen
 ## 📍 Features
 - Basic CRUD
 - Search with filter
+- Login, register
 - Export data, report (xls, pdf)
 - Analytic data (column chart, pie chart)
 
