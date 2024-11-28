@@ -61,8 +61,8 @@ Right click and `Run As/1 Java Application` or use shortcut `Alt + Shift + X`.
 
 ## ✒️ Diagrams
 <p>
-  <img title='ERD diagram' src="./Screenshot/erd.png" width="49%"/>
-  <img title='ERM diagram' style='float: right' src="./Screenshot/erm.png" width="47%"/>
+  <img title='ERD diagram' src="./Screenshots/erd.png" width="49%"/>
+  <img title='ERM diagram' style='float: right' src="./Screenshots/erm.png" width="47%"/>
 </p>
 
 ## 🫂 Contributing
