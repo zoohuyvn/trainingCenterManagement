@@ -35,7 +35,7 @@ Final project with Java for managing student profiles and scores in a training c
 ## ⚙️ Installation
 ### 1. Clone repository
 ```bash
-git clone https://github.com/iamzoohuy/trainingCenterManagement.git
+git clone https://github.com/zoohuyvn/trainingCenterManagement.git
 ```
 ### 2. Install environment
 - JDK (version 8 and above): Java SE Development Kit 20.0.2
