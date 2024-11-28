@@ -1,5 +1,5 @@
 # Training Center Management
-Final project in Java for managing student profiles and scores in a training center. It's my first project at VKU.
+Final project with Java for managing student profiles and scores in a training center. It's my first project at VKU.
 
 ## 📍 Features
 - Basic CRUD
