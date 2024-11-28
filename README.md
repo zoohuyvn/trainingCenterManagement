@@ -10,16 +10,16 @@ Final project with Java for managing student profiles and scores in a training c
 
 ## 📃Example
 <p>
-  <img title='Login page' src="./Screenshot/login.png" width="49%"/>
-  <img title='Register page' style='float: right' src="./Screenshot/register.png" width="49%"/>
+  <img title='Login page' src="./Screenshots/login.png" width="49%"/>
+  <img title='Register page' style='float: right' src="./Screenshots/register.png" width="49%"/>
 </p>
 <p>
-  <img title='Main page' src="./Screenshot/main.png" width="49%"/>
-  <img title='Analytic page' style='float: right' src="./Screenshot/analytic.png" width="49%"/>
+  <img title='Main page' src="./Screenshots/main.png" width="49%"/>
+  <img title='Analytic page' style='float: right' src="./Screenshots/analytic.png" width="49%"/>
 </p>
 <p>
-  <img title='Export to Excel' src="./Screenshot/export-data.png" width="49%"/>
-  <img title='Export report to PDF' style='float: right' src="./Screenshot/export-report.png" width="49%"/>
+  <img title='Export to Excel' src="./Screenshots/export-data.png" width="49%"/>
+  <img title='Export report to PDF' style='float: right' src="./Screenshots/export-report.png" width="49%"/>
 </p>
 
 ## 🛠️ Built with
